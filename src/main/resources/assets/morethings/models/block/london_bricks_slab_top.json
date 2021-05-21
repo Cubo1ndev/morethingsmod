@@ -1,0 +1,8 @@
+﻿{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "morethings:block/london_bricks",
+        "top": "morethings:block/london_bricks",
+        "side": "morethings:block/london_bricks"
+    }
+}

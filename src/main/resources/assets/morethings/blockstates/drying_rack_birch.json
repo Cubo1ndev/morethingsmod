@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "morethings:block/drying_rack_birch" },
+        "facing=east":  { "model": "morethings:block/drying_rack_birch", "y": 90 },
+        "facing=south": { "model": "morethings:block/drying_rack_birch", "y": 180 },
+        "facing=west":  { "model": "morethings:block/drying_rack_birch", "y": 270 }
+    }
+}

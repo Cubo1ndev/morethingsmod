@@ -1,0 +1,8 @@
+{
+	"type" : "morethings:dry",
+	"input" : {
+		"item": "morethings:rawhide_cow"
+	},
+	"output": "minecraft:leather",
+	"time": 200
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "###",
+      "###",
+      "###"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:cobblestone"
+      }
+  },
+  "result": {
+      "item": "morethings:compact_cobblestone_level_one",
+      "count": 1
+  },
+  "group": "compact_cobblestone_level_one"
+}

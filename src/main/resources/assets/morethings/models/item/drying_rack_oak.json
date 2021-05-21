@@ -1,0 +1,6 @@
+{
+    "parent": "morethings:block/rack",
+    "textures": {
+        "leg": "block/oak_planks"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:bedrock"
+	},
+	"result": "morethings:small_sandstone_squares_bricks",
+	"count": 1
+}
