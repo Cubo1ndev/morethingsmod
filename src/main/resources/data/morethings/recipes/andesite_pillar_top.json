@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "minecraft:bedrock"
+	},
+	"result": "morethings:andesite_pillar_top",
+	"count": 1
+}

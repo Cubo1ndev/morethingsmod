@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "morethings",
+  "version": "${version}",
+
+  "name": "MoreThings Mod",
+  "description": "",
+  "authors": [
+    "CuboGamer98"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/morethings/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.more.things.MoreThingsMain"
+    ],
+    "client": [
+      "net.more.things.MoreThignsClient"
+    ]
+  },
+  "mixins": [
+    "morethings.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

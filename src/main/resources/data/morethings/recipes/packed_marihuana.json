@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "###",
+      "###",
+      "###"
+  ],
+  "key": {
+      "#": {
+          "item": "morethings:marihuana_dust"
+      }
+  },
+  "result": {
+      "item": "morethings:packed_marihuana",
+      "count": 1
+  },
+  "group": "packed_marihuana"
+}

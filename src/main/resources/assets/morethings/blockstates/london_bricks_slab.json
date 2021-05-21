@@ -1,0 +1,7 @@
+﻿{
+  "variants": {
+      "type=bottom": { "model": "morethings:block/london_bricks_slab" },
+      "type=top": { "model": "morethings:block/london_bricks_slab_top" },
+      "type=double": { "model": "morethings:block/london_bricks"}
+  }
+}

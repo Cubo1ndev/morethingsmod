@@ -1,0 +1,18 @@
+{
+	"type" : "morethings:fermenter",
+	"inputA" : {
+		"item": "minecraft:potato"
+	},
+	"inputB": {
+		"item": "minecraft:potato"
+	},
+	"inputC": {
+		"item": "minecraft:potato"
+	},
+	"bottle": {
+		"item": "morethings:normal_bottle"
+	},
+	"fermentTime": 200,
+	"outputItem": "morethings:vodka_bottle_quarter",
+	"outputAmount": 1
+}

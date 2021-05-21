@@ -1,0 +1,30 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.more.things.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinFurnaceMinecartEntity",
+    "MixinSweetBerryBushBlock",
+    "MixinShulkerBulletEntity",
+    "MixinInfinityEnchantment",
+    "MixinEnchantment",
+    "MixinCactusBlock",
+    "MixinItemEntity",
+    "MixinAnvilBlock",
+    "MixinItemStack",
+    "CompostMixin"
+  ],
+  "client": [
+    "MixinInGameOverlayRenderer",
+    "MixinTextureManager",
+    "MixinGameRenderer",
+    "TitleScreenMixin",
+    "IngameHudMixin",
+    "ScreenMixin"
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

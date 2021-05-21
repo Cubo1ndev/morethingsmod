@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "morethings:block/marihuana_top_stage1"
+    }
+}

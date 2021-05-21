@@ -1,0 +1,6 @@
+{
+    "parent": "morethings:block/rack_side",
+    "textures": {
+        "leg": "block/jungle_planks"
+	}
+}

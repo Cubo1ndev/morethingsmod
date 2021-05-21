@@ -1,0 +1,19 @@
+{
+	"type" : "morethings:sew",
+	"inputA" : {
+		"item": "minecraft:white_wool"
+	},
+	"inputB": {
+		"item": "minecraft:blue_wool"
+	},
+	"inputC": {
+		"item": "minecraft:air"
+	},
+	"inputD": {
+		"item": "minecraft:air"
+	},
+	"outputItemA": "morethings:mascarilla",
+	"outputItemB": "minecraft:air",
+	"outputItemC": "minecraft:air",
+	"outputItemD": "minecraft:air"
+}

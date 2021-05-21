@@ -1,0 +1,6 @@
+{
+    "parent": "morethings:block/cutting_board",
+    "textures": {
+        "0": "block/birch_planks"
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+          "item": "morethings:marihuana"
+      }
+  ],
+  "result": {
+      "item": "morethings:marihuana_dust",
+      "count": 2
+  },
+  "group": "marihuana"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "&#&",
+      "#&#",
+      "&#&"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:redstone"
+      },
+      "&": {
+          "item": "minecraft:gold_nugget"
+      }
+  },
+  "result": {
+      "item": "minecraft:glowstone",
+      "count": 4
+  },
+  "group": "glowstone"
+}

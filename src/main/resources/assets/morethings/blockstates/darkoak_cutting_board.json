@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "morethings:block/darkoak_cutting_board" },
+        "facing=east":  { "model": "morethings:block/darkoak_cutting_board", "y": 90 },
+        "facing=south": { "model": "morethings:block/darkoak_cutting_board", "y": 180 },
+        "facing=west":  { "model": "morethings:block/darkoak_cutting_board", "y": 270 }
+    }
+}
